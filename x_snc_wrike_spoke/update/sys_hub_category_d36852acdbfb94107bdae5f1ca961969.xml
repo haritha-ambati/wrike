@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_category">
+    <sys_hub_category action="INSERT_OR_UPDATE">
+        <name>Attachment Management</name>
+        <order>100</order>
+        <sys_class_name>sys_hub_category</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-08 17:28:20</sys_created_on>
+        <sys_id>d36852acdbfb94107bdae5f1ca961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachment Management</sys_name>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_hub_category_d36852acdbfb94107bdae5f1ca961969</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-08 17:28:20</sys_updated_on>
+    </sys_hub_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=d36852acdbfb94107bdae5f1ca961969"/>
+</record_update>

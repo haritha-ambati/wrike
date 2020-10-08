@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6b853e60c67f941066b56251366b7055</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cf058bc8db3f54107bdae5f1ca9619a3</scope_name>
+        <serialized_content>{"FlowDesigner:FD6b853e60c67f941066b56251366b7055":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD6b853e60c67f941066b56251366b7055.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Add Approvers\",\"mandatory\":\"false\",\"child_name\":\"Add_Approver\",\"uiUniqueId\":\"78ea678c-19c1-4b45-a01d-02b8be7023fa\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD6b853e60c67f941066b56251366b7055\",\"child_label\":\"Add Approver\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"6\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"4492a6ba-b14e-47e4-a2a0-f569b461f5ec\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-08 19:35:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f853e60db7f94107bdae5f1ca961955</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD6b853e60c67f941066b56251366b7055</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_complex_object_2f853e60db7f94107bdae5f1ca961955</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-08 19:36:55</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

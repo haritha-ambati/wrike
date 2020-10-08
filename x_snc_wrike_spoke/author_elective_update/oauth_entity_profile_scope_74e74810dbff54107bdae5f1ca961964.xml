@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="DELETE">
+        <oauth_entity_profile display_value="Wrike default_profile">cfa5830cdb3f54107bdae5f1ca9619d4</oauth_entity_profile>
+        <oauth_entity_scope display_value="test">a697c410dbff54107bdae5f1ca96195b</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-07 12:18:07</sys_created_on>
+        <sys_id>74e74810dbff54107bdae5f1ca961964</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cfa5830cdb3f54107bdae5f1ca9619d4</sys_name>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_74e74810dbff54107bdae5f1ca961964</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-07 12:18:07</sys_updated_on>
+    </oauth_entity_profile_scope>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</application>
+        <file_path/>
+        <instance_id>fc562a22db9d10904b5c50b6f4961999</instance_id>
+        <instance_name>empmpraveen</instance_name>
+        <name>oauth_entity_profile_scope_74e74810dbff54107bdae5f1ca961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope"><oauth_entity_profile_scope action="INSERT_OR_UPDATE"><oauth_entity_profile display_value="Wrike default_profile">cfa5830cdb3f54107bdae5f1ca9619d4</oauth_entity_profile><oauth_entity_scope display_value="test">a697c410dbff54107bdae5f1ca96195b</oauth_entity_scope><sys_class_name>oauth_entity_profile_scope</sys_class_name><sys_created_by>haritha.ambati@snc</sys_created_by><sys_created_on>2020-10-07 12:18:07</sys_created_on><sys_id>74e74810dbff54107bdae5f1ca961964</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cfa5830cdb3f54107bdae5f1ca9619d4</sys_name><sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package><sys_policy/><sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope><sys_update_name>oauth_entity_profile_scope_74e74810dbff54107bdae5f1ca961964</sys_update_name><sys_updated_by>haritha.ambati@snc</sys_updated_by><sys_updated_on>2020-10-07 12:18:07</sys_updated_on></oauth_entity_profile_scope></record_update>]]></payload>
+        <payload_hash>653378122</payload_hash>
+        <record_name>cfa5830cdb3f54107bdae5f1ca9619d4</record_name>
+        <reverted_from/>
+        <source>83058bc8db3f54107bdae5f1ca9619a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-07 12:18:07</sys_created_on>
+        <sys_id>e2e78810dbff54107bdae5f1ca961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17502ff4f4c0000001</sys_recorded_at>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-07 12:18:07</sys_updated_on>
+        <type>OAuth Entity Profile Scope</type>
+        <update_guid>66e74810d7ff5410b309929f6b3671b1</update_guid>
+        <update_guid_history>66e74810d7ff5410b309929f6b3671b1:653378122</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Wrike default_profile">4ca1bb54dbb794107bdae5f1ca96197e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-08 05:19:14</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_profile_scope">oauth_entity_profile_scope</sys_db_object>
+        <sys_id>aa77074b95934338a89c9907e57ac121</sys_id>
+        <sys_metadata>74e74810dbff54107bdae5f1ca961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cfa5830cdb3f54107bdae5f1ca9619d4</sys_name>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_scope_delete display_value="">063893c4b2aa4c17803724a50b6e5879</sys_scope_delete>
+        <sys_update_name>oauth_entity_profile_scope_74e74810dbff54107bdae5f1ca961964</sys_update_name>
+        <sys_update_version display_value="oauth_entity_profile_scope_74e74810dbff54107bdae5f1ca961964">e2e78810dbff54107bdae5f1ca961985</sys_update_version>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-08 05:19:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

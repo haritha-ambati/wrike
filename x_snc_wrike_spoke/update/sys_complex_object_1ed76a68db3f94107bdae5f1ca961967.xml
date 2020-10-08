@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD5ad76a68dd3f9410894327e723006867</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cf058bc8db3f54107bdae5f1ca9619a3</scope_name>
+        <serialized_content>{"FlowDesigner:FD5ad76a68dd3f9410894327e723006867":{"currentAttachmentId":"String","currentAttachmentId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Attachment ID\",\"mandatory\":\"true\",\"order\":\"9\",\"max_length\":\"0\"}"},"playlistUrl":"String","playlistUrl.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Playlist URL\",\"mandatory\":\"true\",\"order\":\"10\",\"max_length\":\"0\"}"},"size":"String","size.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Size\",\"mandatory\":\"true\",\"order\":\"8\",\"max_length\":\"0\"}"},"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Attachment ID\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\"}"},"authorId":"String","authorId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Author ID\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"},"version":"String","version.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Version\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\"}"},"folderId":"String","folderId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Folder ID\",\"mandatory\":\"true\",\"order\":\"11\",\"max_length\":\"0\"}"},"taskId":"String","taskId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Task ID\",\"mandatory\":\"true\",\"order\":\"12\",\"max_length\":\"0\"}"},"url":"String","url.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Preview URL\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\"}"}},"FlowDesigner:FD5ad76a68dd3f9410894327e723006867.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Attachment Details\",\"mandatory\":\"true\",\"uiUniqueId\":\"2f2c031f-4ee1-4976-ab3c-dc17ec14b5d6\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD5ad76a68dd3f9410894327e723006867\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"3\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-08 18:35:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ed76a68db3f94107bdae5f1ca961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD5ad76a68dd3f9410894327e723006867</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_complex_object_1ed76a68db3f94107bdae5f1ca961967</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-08 18:35:23</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

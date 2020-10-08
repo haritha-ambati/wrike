@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDfe7e62ac893f941094397db8f799b2e8</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cf058bc8db3f54107bdae5f1ca9619a3</scope_name>
+        <serialized_content>{"FlowDesigner:FDfe7e62ac893f941094397db8f799b2e8":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDfe7e62ac893f941094397db8f799b2e8.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Attachments\",\"mandatory\":\"false\",\"child_name\":\"Attachment\",\"uiUniqueId\":\"27693516-9ef6-4328-bc42-3ef5b2ff006b\",\"uiTypeLabel\":\"String\",\"co_type_name\":\"FDfe7e62ac893f941094397db8f799b2e8\",\"child_label\":\"Attachment\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"string\",\"child_type\":\"string\",\"order\":\"5\",\"max_length\":\"8000\",\"child_uiUniqueId\":\"3a4b3de7-ffa8-48d0-a4b6-5a9c9e051233\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-08 19:04:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b27e62acdb3f94107bdae5f1ca9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDfe7e62ac893f941094397db8f799b2e8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_complex_object_b27e62acdb3f94107bdae5f1ca9619e9</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-08 19:04:21</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

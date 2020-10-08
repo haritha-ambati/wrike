@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_wrike_spoke.WrikeUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>WrikeUtils</name>
+        <script><![CDATA[var WrikeUtils = Class.create();
+WrikeUtils.prototype = {
+    initialize: function() {
+    },
+	
+	validateInputVariables: function(inputs, outputs) {
+		for (var key in inputs) {
+			var value = inputs[key];
+			if (typeof value == 'string')
+				inputs[key] = value.trim();
+			else
+				inputs[key] = value;
+		}
+		return inputs;
+	},
+
+	validateMandatoryVariables: function(obj, keys) {
+		keys.forEach(function(key) {
+			if (!obj[key])
+				throw new Error("Error while executing, mandatory information isn't passed in " + key);
+		});
+	},
+
+	mapToOutputFromInput: function(inputs, outputs, keys) {
+		if (keys.length <= 0)
+			for (var key in inputs) {
+				outputs[key] = inputs[key];
+			} else {
+				keys.forEach(function(key) {
+					outputs[key] = inputs[key];
+				});
+			}
+		return outputs;
+	},
+	
+	updateUser: function(inputs, outputs) {
+		var payload = {};
+		payload.accountId = inputs.account_id;
+		payload.role = inputs.role;
+		if(inputs.is_external)
+			payload.external= inputs.is_external;
+		outputs.payload = JSON.stringify(payload);
+		return outputs;
+	},
+	
+    type: 'WrikeUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>haritha.ambati@snc</sys_created_by>
+        <sys_created_on>2020-10-08 07:14:42</sys_created_on>
+        <sys_id>2ca904a0dbf794107bdae5f1ca961958</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WrikeUtils</sys_name>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_script_include_2ca904a0dbf794107bdae5f1ca961958</sys_update_name>
+        <sys_updated_by>haritha.ambati@snc</sys_updated_by>
+        <sys_updated_on>2020-10-08 07:57:15</sys_updated_on>
+    </sys_script_include>
+</record_update>
