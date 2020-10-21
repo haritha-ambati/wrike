@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD5f17107e3a331810e3eb69bacfd8ae6c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cf058bc8db3f54107bdae5f1ca9619a3</scope_name>
+        <serialized_content>{"FlowDesigner:FD5f17107e3a331810e3eb69bacfd8ae6c":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD5f17107e3a331810e3eb69bacfd8ae6c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"max_rows\":\"-20\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Remove Parents\",\"mandatory\":\"false\",\"child_name\":\"remove_parent\",\"uiUniqueId\":\"f835b109-8856-43a0-a4e0-8f208d7ff5e5\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD5f17107e3a331810e3eb69bacfd8ae6c\",\"child_label\":\"Remove Parent\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"7\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"2e91bab8-5311-4182-9497-1d7323c441e8\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-15 07:49:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1317107e1b33181038f0db16cc4bcb6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD5f17107e3a331810e3eb69bacfd8ae6c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_complex_object_1317107e1b33181038f0db16cc4bcb6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-15 07:49:20</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

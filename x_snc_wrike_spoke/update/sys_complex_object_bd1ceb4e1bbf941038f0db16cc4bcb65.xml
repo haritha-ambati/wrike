@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf91ceb4e6ebf9410830cb697cd53ce65</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cf058bc8db3f54107bdae5f1ca9619a3</scope_name>
+        <serialized_content>{"FlowDesigner:FDf91ceb4e6ebf9410830cb697cd53ce65":{"accountId":"String","accountId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"accountId\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"},"avatarUrl":"String","avatarUrl.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"avatarUrl\",\"mandatory\":\"true\",\"order\":\"12\",\"max_length\":\"0\"}"},"childIds":["Any"],"childIds.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"childIds\",\"mandatory\":\"true\",\"child_name\":\"child_Id\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"child_Id\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"8\",\"max_length\":\"0\",\"child_uiUniqueId\":\"45aaad0c-3012-4b2d-8659-0b25cd77e38d\"}"},"parentIds":["Any"],"parentIds.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"parentIds\",\"mandatory\":\"true\",\"child_name\":\"parent_Id\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"parent_Id\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"10\",\"max_length\":\"0\",\"child_uiUniqueId\":\"6363949e-ec02-45f7-95f2-1b12a11e3935\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\"}"},"title":"String","title.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"title\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\"}"},"memberIds":["Any"],"memberIds.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"memberIds\",\"mandatory\":\"true\",\"child_name\":\"members\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"members\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"6\",\"max_length\":\"0\",\"child_uiUniqueId\":\"814813e5-a3ef-40a5-87c4-9f0bd26eefcd\"}"}},"FlowDesigner:FDf91ceb4e6ebf9410830cb697cd53ce65.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"group\",\"mandatory\":\"true\",\"uiUniqueId\":\"025a9e24-38e0-4554-96d2-60f075b1ae5c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDf91ceb4e6ebf9410830cb697cd53ce65\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"3\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 15:24:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd1ceb4e1bbf941038f0db16cc4bcb65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf91ceb4e6ebf9410830cb697cd53ce65</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_complex_object_bd1ceb4e1bbf941038f0db16cc4bcb65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 15:24:24</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

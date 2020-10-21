@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd14d66caa33f94105e91b3359901a0ac</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cf058bc8db3f54107bdae5f1ca9619a3</scope_name>
+        <serialized_content>{"FlowDesigner:FDd14d66caa33f94105e91b3359901a0ac":{"createdDate":"String","createdDate.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"createdDate\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"86d42a71-de58-4845-b65c-e8665a4fca6b\"}"},"attachmentIds":"String","attachmentIds.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"attachmentIds\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\",\"uiUniqueId\":\"05868327-cd05-4462-af70-98daae440db3\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"59b44349-3faa-4739-94eb-110670db9d50\"}"},"text":"String","text.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"text\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"a419652d-9660-4394-a0a2-292424747a18\"}"},"updatedDate":"String","updatedDate.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"updatedDate\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"324e3826-7550-4e95-be95-5d56360e6997\"}"},"authorId":"String","authorId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"authorId\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"b1c22020-e297-454d-bf44-f0e552e9695b\"}"},"folderId":"String","folderId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"folderId\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\",\"uiUniqueId\":\"2baece92-9875-4011-b265-6a6d04a2313e\"}"},"status":"String","status.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Choice\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"choice\",\"default_value\":\"\",\"label\":\"Status\",\"mandatory\":\"false\",\"order\":\"8\",\"max_length\":\"32\"}","SimpleChoiceFacet":"{\"complex_choice_map_key$\":{},\"choice_map_key$\":{\"Error\":\"{\\\"label\\\":\\\"Error\\\",\\\"value\\\":\\\"Error\\\",\\\"order\\\":2}\",\"-- None --\":\"{\\\"label\\\":\\\"-- None --\\\",\\\"value\\\":\\\"\\\",\\\"order\\\":0}\",\"Success\":\"{\\\"label\\\":\\\"Success\\\",\\\"value\\\":\\\"Success\\\",\\\"order\\\":1}\"}}"}},"FlowDesigner:FDd14d66caa33f94105e91b3359901a0ac.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"462ff359-7a16-4865-b02e-c9845ab779a9\",\"default_value\":\"\",\"label\":\"Comment\",\"mandatory\":\"false\",\"uiUniqueId\":\"8e6f17f6-b587-4785-96fa-69342ceb8c61\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDd14d66caa33f94105e91b3359901a0ac\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"869ac8ea-908f-4d5c-b377-4b66f6a7a2cb\",\"sourceType\":\"step\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 10:49:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>954d66ca1b3f941038f0db16cc4bcbac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDd14d66caa33f94105e91b3359901a0ac</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_complex_object_954d66ca1b3f941038f0db16cc4bcbac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 10:49:57</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

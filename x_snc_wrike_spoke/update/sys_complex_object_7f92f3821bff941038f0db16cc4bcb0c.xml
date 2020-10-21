@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDbb92f382b0ff9410e027b1c25f5c6d0c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cf058bc8db3f54107bdae5f1ca9619a3</scope_name>
+        <serialized_content>{"FlowDesigner:FDbb92f382b0ff9410e027b1c25f5c6d0c":{"accountId":"String","accountId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"accountId\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"0bffcb25-a88c-4a06-8022-512a87d7adaa\"}"},"avatarUrl":"String","avatarUrl.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"avatarUrl\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\",\"uiUniqueId\":\"fd0b9ca5-5231-456d-9557-accb74625cf3\"}"},"childIds":["Any"],"childIds.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"childIds\",\"mandatory\":\"true\",\"child_name\":\"child_Id\",\"uiUniqueId\":\"d0a684b9-1427-4352-af15-eeddfc62b9c4\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"child_Id\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"5\",\"max_length\":\"0\",\"child_uiUniqueId\":\"f50ed151-cf28-4750-878a-c3e6824fb0c2\"}"},"parentIds":["Any"],"parentIds.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"parentIds\",\"mandatory\":\"true\",\"child_name\":\"parent_Id\",\"uiUniqueId\":\"aae64d04-204d-4645-92dd-eb21991a6beb\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"parent_Id\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"6\",\"max_length\":\"0\",\"child_uiUniqueId\":\"44901cd6-784e-4ba6-8305-81308b46ffbb\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"5ec69608-ed7f-4a53-9a45-5cc35c0bd630\"}"},"title":"String","title.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"title\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"ac24a18b-7782-409c-92ea-88d396567415\"}"},"memberIds":["Any"],"memberIds.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"memberIds\",\"mandatory\":\"true\",\"child_name\":\"members\",\"uiUniqueId\":\"1461139e-cd00-4239-aea2-2d44a36d8852\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"members\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"4\",\"max_length\":\"0\",\"child_uiUniqueId\":\"650478c9-bc75-4b76-834c-6bf508bbd468\"}"}},"FlowDesigner:FDbb92f382b0ff9410e027b1c25f5c6d0c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"a6d7aee8-486b-4a23-b854-e5705a6f5eca\",\"default_value\":\"\",\"label\":\"Groups\",\"mandatory\":\"false\",\"uiUniqueId\":\"f7b1bcde-6695-423c-8ae2-dbb2165f09ba\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDbb92f382b0ff9410e027b1c25f5c6d0c\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"8fb33ddc-7cf5-4549-9105-d4774094e475\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 15:52:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f92f3821bff941038f0db16cc4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDbb92f382b0ff9410e027b1c25f5c6d0c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wrike Spoke" source="x_snc_wrike_spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wrike Spoke">cf058bc8db3f54107bdae5f1ca9619a3</sys_scope>
+        <sys_update_name>sys_complex_object_7f92f3821bff941038f0db16cc4bcb0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 15:52:57</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
